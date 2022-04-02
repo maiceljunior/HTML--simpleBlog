@@ -5,4 +5,4 @@
 
 ### 🇺🇸 Simple blog made with the correct semantic html and styling without using flexbox (float use).
 
-### blog link -> https://maiceljunior.github.io/blog-exercicio-kenzie/
+### blog link -> https://maiceljunior.github.io/HTML--simpleBlog/
